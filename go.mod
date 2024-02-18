@@ -1,3 +1,3 @@
-module solid_and_pattern
+module solid
 
 go 1.21.6
